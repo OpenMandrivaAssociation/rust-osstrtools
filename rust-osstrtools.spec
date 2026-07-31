@@ -5,8 +5,8 @@
 %global crate osstrtools
 
 Name:           rust-%{crate}
-Version:        0.1.9
-Release:        2%{?dist}
+Version:        0.2.2
+Release:        1%{?dist}
 Summary:        Additional helper methods for OsStr
 
 # Upstream license specification: WTFPL
